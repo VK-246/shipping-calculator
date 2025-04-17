@@ -10,7 +10,7 @@ The Shipping Calculator is a web-based application developed to assist customers
 4. View the estimated shipping cost and expected delivery time.
 
 ## Author
-This project is developed and maintained by the logistics team at **[Your Company Name]**.
+This project is developed and maintained by the logistics team of logistivs.pvt.limited.
 
 ## License
 This project is licensed under the [Apache License 2.0](./LICENSE).
