@@ -12,4 +12,4 @@ The Shipping Calculator is a web-based application developed to assist customers
 ## License
 This project is licensed under the [Apache License 2.0](./LICENSE).
 
-2022, XYZ.Inc
+2023, XYZ.Inc
